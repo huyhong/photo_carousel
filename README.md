@@ -1,6 +1,6 @@
 # Build a photo carousel
 
-[mock]: https://github.com/huyhong/photo_carousel/raw/master/photo_carousel_mock.png
+![mock](https://github.com/huyhong/photo_carousel/raw/master/photo_carousel_mock.png)
 
 ### Instructions:
 * Write this as a prototype with the intent of turning this into a proper component
