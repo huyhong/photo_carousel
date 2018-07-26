@@ -1,5 +1,7 @@
 # Build a photo carousel
 
+[mock]: https://github.com/huyhong/photo_carousel/raw/master/photo_carousel_mock.png
+
 ### Instructions:
 * Write this as a prototype with the intent of turning this into a proper component
 * Code it the way you prefer, use libraries and techniques you're comfortable with
