@@ -1,7 +1,9 @@
 # Build a photo carousel
 
 ### Instructions:
-* Write this as a prototype with the intent of turning this into a proper component in the future
+* Write this as a prototype with the intent of turning this into a proper component
+* Code it the way you prefer, use libraries and techniques you're comfortable with
+* Look up resources/docs as needed
 * Do as much as you can in the time alloted, we don't expect you to complete all the specs
 * Plan your time to work towards your strengths, it's okay to leave things sparse as long as it's commented as such
 
