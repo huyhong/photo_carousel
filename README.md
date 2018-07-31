@@ -15,8 +15,8 @@
 * Container should grow vertically to accomodate the photo's aspect ratio
 * Basic fade-in/out animations
 * Photo sources (use whichever your prefer):
-  * Static array of URLs: `['https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FIMG_6580.jpg?1532627591767', 'https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FDSC07233.jpg?1532627592128', 'https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FIMG_5948.jpg?1532627592065', 'https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FDSC06923.jpg?1532627592271', 'https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FDSC06790.jpg?1532627592194']`
-  * Endpoint: `https://organic-braid.glitch.me/photos`
+  * **Static array of URLs:** `['https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FIMG_6580.jpg?1532627591767', 'https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FDSC07233.jpg?1532627592128', 'https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FIMG_5948.jpg?1532627592065', 'https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FDSC06923.jpg?1532627592271', 'https://cdn.glitch.com/a606b2ac-adf4-4165-9f7a-6f7d2e3f1b4e%2FDSC06790.jpg?1532627592194']`
+  * **Endpoint:** `https://organic-braid.glitch.me/photos`
   
   Endpoint returns:
   ```
